@@ -1,0 +1,1 @@
+card_names = ['Perfiles / Maestra', 'Tarjeta de Crédito']
